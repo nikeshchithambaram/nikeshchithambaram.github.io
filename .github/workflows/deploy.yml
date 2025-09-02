@@ -28,7 +28,7 @@ jobs:
       - name: Build project
         run: npm run build
       - name: Copy index file to 404 file
-        run: cp dist/index.html /dist/404.html
+        run: cp dist/index.html dist/404.html
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
