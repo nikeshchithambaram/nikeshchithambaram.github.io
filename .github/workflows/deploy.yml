@@ -23,14 +23,10 @@ jobs:
         uses: actions/setup-node@v4
 
       - name: Install Dependencies
-        run: |
-            cd portfolio
-            npm install
+        run: npm install
 
       - name: Build project
-        run: |
-            cd portfolio
-            npm run build
+        run: npm run build
       - name: Copy index file to 404 file
         run: cp dist/index.html portfolio/dist/404.html
 
