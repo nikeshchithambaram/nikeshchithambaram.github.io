@@ -9,8 +9,8 @@ const Home = () => {
 
         <div className="space-y-1 sm:space-y-3">
           <h1 className='bg-gradient-to-r from-teal-400 to-teal-600 bg-clip-text text-4xl font-semibold text-transparent md:text-5xl lg:text-6xl'>Nikesh Chithambaram</h1>
-          <h3 className='bg-gradient-to-r from-teal-400 to-teal-600 bg-clip-text text-xl font-semibold text-transparent md:text-2xl lg:text-3xl'>Software Engineer</h3>
-          <p className='max-w-[600px] text-sm text-gray-500'>Software engineer with 8 years of experience developing scalable, cloud-native applications in supply chain, logistics, and healthcare domains.</p>
+          <h3 className='bg-gradient-to-r from-teal-400 to-teal-600 bg-clip-text text-xl font-semibold text-transparent md:text-2xl lg:text-3xl'>Fullstack Dotnet Developer</h3>
+          <p className='max-w-[600px] text-sm text-gray-500'>8 years of experience developing scalable, cloud-native applications in supply chain, logistics, and healthcare domains.</p>
         </div>
         <div className="flex gap-3">
           <a href="https://github.com/nikeshchithambaram">

@@ -9,7 +9,7 @@ const Experience = () => {
         <div className="flex-1">
           <div className="relative space-y-1 border-l-2 p-8 text-left">
             <h3 className="text-xl font-semibold md:text-2xl">
-              Senior Software Engineer
+              Senior Dotnet Developer
             </h3>
             <h6 className="text-lg md:text-2lg">
               The Home Depot – Atlanta, GA
@@ -29,7 +29,7 @@ const Experience = () => {
           </div>
           <div className="relative space-y-1 border-l-2 p-8 text-left">
             <h3 className="text-xl font-semibold md:text-2xl">
-              Software Engineer
+              Dotnet Developer
             </h3>
             <h6 className="text-lg md:text-2lg">
               Legacy Health - Portland, OR
@@ -49,7 +49,7 @@ const Experience = () => {
         <div className="flex-1">
           <div className="relative space-y-1 border-l-2 p-8 text-left">
             <h3 className="text-xl font-semibold md:text-2xl">
-              Software Engineer
+              Dotnet Developer
             </h3>
 
             <h6 className="text-lg md:text-2lg">
@@ -68,7 +68,7 @@ const Experience = () => {
           </div>
           <div className="relative space-y-1 border-l-2 p-8 text-left">
             <h3 className="text-xl font-semibold md:text-2xl">
-              Junior Software Engineer
+              Junior Dotnet Developer
             </h3>
             <h6 className="text-lg md:text-2lg">
               Byteridge Software Pvt Ltd - Hyderabad

@@ -1,4 +1,4 @@
-import { BiLogoAngular, BiLogoDocker, BiLogoGit, BiLogoReact, BiLogoTypescript } from "react-icons/bi"
+import { BiLogoAngular, BiLogoDocker, BiLogoGit, BiLogoReact } from "react-icons/bi"
 import { SiDotnet } from "react-icons/si";
 import { VscAzure } from "react-icons/vsc";
 
