@@ -1,4 +1,4 @@
-import { BiLogoGithub, BiLogoLinkedin } from 'react-icons/bi'
+import { BiLogoGithub, BiLogoLinkedin, BiLogoMedium } from 'react-icons/bi'
 import image from '../../public/image.jpg'
 
 const Home = () => {
@@ -19,6 +19,10 @@ const Home = () => {
           <a href="https://www.linkedin.com/in/nikesh-chithambaram/">
           <BiLogoLinkedin className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12'/>
           </a>
+          <a href="https://medium.com/@nikeshniki19">
+          <BiLogoMedium className='h-10 w-10 cursor-pointer rounded-full border-2 border-transparent bg-teal-600 p-2 text-white transition-all duration-200 hover:scale-110 hover:border-teal-600 hover:bg-white hover:text-teal-600 md:h-12 md:w-12'/>
+          </a>
+
         </div>
       </div>
     </div>
